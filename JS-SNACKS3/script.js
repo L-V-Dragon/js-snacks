@@ -8,4 +8,4 @@ for (i = 0; i < 10; i++) {
 }
 
 media = somma / i;
-console.log('la media è ', media);
+console.log('la media è ' + media);
