@@ -3,7 +3,7 @@
 let numeroUtente = prompt("Inserire un numero da 0 a 10");
 
 
-let numeroBanco = Math.floor(Math.random() * 10) + 1;
+let numeroBanco = Math.floor(Math.random() * 11);
 
 
 console.log("Il computer ha estratto il numero: " + numeroBanco);
